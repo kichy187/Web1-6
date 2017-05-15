@@ -6,4 +6,10 @@ h2{
     font-size: 1.25em;/*サイズ大きめに*/
 }
 body{
+    background-color: #00b7ce;
+}
+#main{
+    padding: 40px 80px;
+    border: green 1px solid;
+    background-color: white;
 }
