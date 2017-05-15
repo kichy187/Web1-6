@@ -34,3 +34,9 @@ btn:active{
 btn-submit{
     background-color: silver;
 }
+#ingredient{
+    border: 2px solid lightcoral;
+}
+th,td{
+    border:1px solid lightcoral;
+}
