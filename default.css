@@ -13,11 +13,11 @@ body{
     border: #149C99 2px solid;
     background-color: white;
 }
-photo{
+.photo{
     float: left;
     margin-right: 30px;
 }
-btn{
+.btn{
     -webkit-appearance:none;
     margin: 5px;
     width: 100px;
@@ -25,13 +25,13 @@ btn{
     padding: 10px;
     font-size: 15px;
 }
-btn:hover{
+.btn:hover{
     opacity:0.7;
 }
-btn:active{
+.btn:active{
     color:white;
 }
-btn-submit{
+.btn-submit{
     background-color: silver;
 }
 #ingredient{
