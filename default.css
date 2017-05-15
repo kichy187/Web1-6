@@ -38,6 +38,9 @@ body{
     border: 2px solid lightcoral;
     border-collapse: collapse;
 }
+th,td{
+    border: 1px solid lightvoral;
+}
 caotion{
     padding: 5px;
 }
