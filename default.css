@@ -37,6 +37,21 @@ btn-submit{
 #ingredient{
     border: 2px solid lightcoral;
 }
-th,td{
-    border:1px solid lightcoral;
+caotion{
+    padding: 5px;
+}
+#kakaku{
+    background-color: lightyellow;
+}
+therd th,tfoot th{
+    background-color: white;
+}
+therd td{
+    color: white;
+    background-color: lightcoral;
+    text-align: center;
+}
+tfoot td{
+    font-weight: bold;
+    background-color: white;
 }
