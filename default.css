@@ -18,11 +18,13 @@ body{
     margin-right: 30px;
 }
 .btn{
-    -webkit-appearance:none;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
     margin: 5px;
     width: 100px;
     height 40px;
     padding: 10px;
+    border:none;
     font-size: 15px;
 }
 .btn:hover{
@@ -40,6 +42,19 @@ body{
 }
 th,td{
     border: 1px solid lightvoral;
+}
+th{
+    border: 1px solid lightcoral;
+    background-color: mistyrose;
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+}
+td{
+    border: 1px solid lightcoral;
+    padding:5px;
+    width: 80px;
+    text-align: right;
 }
 caotion{
     padding: 5px;
