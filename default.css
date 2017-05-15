@@ -13,3 +13,7 @@ body{
     border: #149C99 2px solid;
     background-color: white;
 }
+photo{
+    float: left;
+    margin-right: 30px;
+}
