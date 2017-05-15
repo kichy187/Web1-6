@@ -13,11 +13,11 @@ main{
     border: #149C99 2px solid;
     background-color: white;
 }
-.photo{
+photo{
     float: left;
     margin-right: 30px;
 }
-.btn{
+btn{
     -webkit-appearance:none;
     margin: 5px;
 }
