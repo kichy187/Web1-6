@@ -20,4 +20,17 @@ photo{
 btn{
     -webkit-appearance:none;
     margin: 5px;
+    width: 100px;
+    height 40px;
+    padding: 10px;
+    font-size: 15px;
+}
+btn:hover{
+    opacity:0.7;
+}
+btn:active{
+    color:white;
+}
+btn-submit{
+    background-color: silver;
 }
